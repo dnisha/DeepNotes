@@ -62,3 +62,11 @@ else:
     print("Strings are not the rotations of each other")
 
 ```
+## Time Complexity
+```
+O(n*n)
+```
+## Space Complexity
+```
+O(n)
+```
